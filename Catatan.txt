@@ -1,0 +1,4 @@
+Untuk Menjalankan aplikasi :
+1. Jalankan file LibraryApp.sql menggunakan SQL Server pada database local.
+2. Buka WebApplication1.sln di dalam folder WebApplication1 menggunakan visual studio 2022.
+3. Buka index.html  di dalam folder ui menggunakan browser.
